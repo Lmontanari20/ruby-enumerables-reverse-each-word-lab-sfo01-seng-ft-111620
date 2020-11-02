@@ -6,7 +6,5 @@ def reverse_each_word(string)
     result_array << element.reverse
   }
   result_string = result_array.join(" ")
-  p result_string
 end
 
-reverse_each_word("howdy yall")
