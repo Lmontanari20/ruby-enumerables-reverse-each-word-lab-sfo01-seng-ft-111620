@@ -15,3 +15,4 @@ def reverse_each_word(string)
   p array
 end
 
+reverse_each_word("howdy yall")
